@@ -1,4 +1,0 @@
-$(AnsiColor.BLUE)
---------
-
----Version--- $(spring-boot.version)
